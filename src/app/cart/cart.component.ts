@@ -12,6 +12,7 @@ export class CartComponent implements OnInit {
   ngAfterViewInit() {
     window.scrollTo(0, 0);
     }
+    //
 
   ngOnInit() {
   }
